@@ -28,11 +28,7 @@ FTP Server Upload files + Download files:
 
 Q5:
 
-Search for files before cashing:
-
-<img width="837" alt="Screenshot 2023-01-11 at 3 19 38 PM" src="https://user-images.githubusercontent.com/102434828/211938973-76fb14bf-3cbc-4097-87ce-0f015574545a.png">
-
-Search for files after cashing:
+Search for files before and after cashing:
 
 <img width="837" alt="Screenshot 2023-01-11 at 3 20 31 PM" src="https://user-images.githubusercontent.com/102434828/211939050-e0c4cd79-aded-4ff8-b369-f216222f4305.png">
 
