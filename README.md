@@ -35,9 +35,9 @@ Search for files before and after cashing:
 
 ### CONTRIBUTORS:
 
-- Ehsan Abourshaed
-- George Nigoghossian
-- Johny Kodsy
-- Rita Rezeq
-- Nicolas Al Ahmar
+- [Ehsan Abourshaed](https://github.com/ehsankkk1)
+- [George Nigoghossian](https://github.com/georgeNigoghossian)
+- [Johny Kodsy](https://github.com/johnykoudsy)
+- [Rita Rezeq](https://github.com/RitaRezeq)
+- [Nicolas Al Ahmar](https://github.com/nicolasalahmar)
 
